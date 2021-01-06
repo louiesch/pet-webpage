@@ -8,3 +8,7 @@ h3 {
   text-align:left;
 }
 
+img {
+  max-width: 50%;
+  max-width: auto;
+}
